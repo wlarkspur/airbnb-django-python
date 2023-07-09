@@ -9,5 +9,6 @@
 1. poetry shell
 2. python manage.py runserver
 3. python manage.py migrate
+4. python manage.py createsuperuser -> admin 계정생성
 
 - django-admin startproject config .
