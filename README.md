@@ -10,5 +10,6 @@
 2. python manage.py runserver
 3. python manage.py migrate
 4. python manage.py createsuperuser -> admin 계정생성
+5. python manage.py startapp AAA
 
 - django-admin startproject config .
